@@ -1,0 +1,7 @@
+Para iniciar o site: npm run serve
+
+link do site: http://localhost:8080/
+
+Para iniciar o servidor: npm run backend
+
+Para ver informações do banco de dados: http://localhost:3000/pedidos e http://localhost:3000/opcoes

@@ -1,0 +1,84 @@
+{
+  "opcoes": {
+    "money": [
+      {
+        "id": 1,
+        "tipo": "500"
+      },
+      {
+        "id": 2,
+        "tipo": "1000"
+      },
+      {
+        "id": 3,
+        "tipo": "5000"
+      },
+      {
+        "id": 4,
+        "tipo": "+5000"
+      }
+    ],
+    "parc": [
+      {
+        "id": 1,
+        "tipo": "4x"
+      },
+      {
+        "id": 2,
+        "tipo": "8x"
+      },
+      {
+        "id": 3,
+        "tipo": "12x"
+      },
+      {
+        "id": 4,
+        "tipo": "16x"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Seguro de vida"
+      },
+      {
+        "id": 2,
+        "tipo": "Seguro de carro"
+      },
+      {
+        "id": 3,
+        "tipo": "Advogado 24h"
+      },
+      {
+        "id": 4,
+        "tipo": "Reboque 24h"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Aprovado"
+    },
+    {
+      "id": 3,
+      "tipo": "Negado"
+    }
+  ],
+  "pedidos": [
+    {
+      "nome": "Rafael",
+      "vezes": "12x",
+      "din": "1000",
+      "opcionais": [
+        "Seguro de vida"
+      ],
+      "status": "Aprovado",
+      "id": 1
+    }
+  ]
+}
